@@ -1,6 +1,12 @@
 {
-  "main.css": "static/css/main.d885ebcb.css",
-  "main.css.map": "static/css/main.d885ebcb.css.map",
-  "main.js": "static/js/main.58c1bea1.js",
-  "main.js.map": "static/js/main.58c1bea1.js.map"
+  "main.css": "static/css/main.48efdf78.css",
+  "main.css.map": "static/css/main.48efdf78.css.map",
+  "main.js": "static/js/main.257ac597.js",
+  "main.js.map": "static/js/main.257ac597.js.map",
+  "static/media/QodeHome.png": "static/media/QodeHome.a59cef5d.png",
+  "static/media/QodeLogin.png": "static/media/QodeLogin.45ab935b.png",
+  "static/media/QodeRegister.png": "static/media/QodeRegister.18b242c5.png",
+  "static/media/VentChat.png": "static/media/VentChat.a2f85c57.png",
+  "static/media/VentHome.png": "static/media/VentHome.6402c898.png",
+  "static/media/VentScroll.png": "static/media/VentScroll.d8ab40d8.png"
 }
