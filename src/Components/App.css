@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  background: #f4f4f4;
 }
 
 a {
   text-decoration: none;
+  color: rgb(0, 166, 255);
+}
+a:active {
+  color: rgb(0, 166, 255);
 }
